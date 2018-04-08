@@ -23,7 +23,6 @@ Being able to successfully predict the toxicity class of a comment can have imme
 
 The quality of predictions will be a function of the features/predictor variables which will be engineered from the pool of comments supplied.
 
-
 ### Datasets
 
 The data has been made available via the following url - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
